@@ -97,6 +97,7 @@ I have created:
 - 1 [enumeration](enums.js), representing the product type (W, P or E). As JavaScript does not have enumerations, I created an object that mimics an enumeration as in Java for example. I improved the enumeration by adding some helper methods to it, as well as some properties.
 - [stdHandler.js](stdHandler.js), which reads the input and uses the Race, Bet and Dividend classes to compute the dividend and display them in the prompt.
 - [index.js](index.js), the bootstrap file. It simply clears the prompt the user to set the inputs.
+- The unit tests are located in the [test](test) folder.
 
 ## Sample file
 
