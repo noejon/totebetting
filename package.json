@@ -1,0 +1,16 @@
+{
+  "name": "coding_exercise",
+  "version": "1.0.0",
+  "description": "Technical skill assessment exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "0.0.1",
+    "mocha": "^3.5.0",
+    "prompt-promise": "^1.0.3"
+  }
+}
